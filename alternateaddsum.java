@@ -9,7 +9,8 @@ Result =6-5+4-3+2-1=3
 Example2 If N = 6, and opt=2
 Result =6+5-4+3-2+1= 9
 The function prototype should be as belowint AddSub(int N, int opt);
-function*/
+function
+*/
     static int AddSub(int N, int opt) {
         int sum=0;
         sum+=N;
